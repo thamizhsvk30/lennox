@@ -1,0 +1,5 @@
+TestCase\AmazonTest.class
+POMPages\LoginPage.class
+POMPages\search.class
+commonMethod\DataInputProvider.class
+commonMethod\CommonAction.class
